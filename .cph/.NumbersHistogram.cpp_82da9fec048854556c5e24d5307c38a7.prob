@@ -1,0 +1,1 @@
+{"name":"Local: NumbersHistogram","url":"d:\\CP\\YouKnowWho\\NumbersHistogram.cpp","tests":[{"id":1718459913481,"input":"+\n5\n5 2 4 3 7","output":"+++++\n++\n++++\n+++\n+++++++"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\YouKnowWho\\NumbersHistogram.cpp","group":"local","local":true}

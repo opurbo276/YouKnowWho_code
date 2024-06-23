@@ -1,0 +1,1 @@
+{"name":"Local: TwoNumbers","url":"d:\\CP\\YouKnowWho\\TwoNumbers.cpp","tests":[{"id":1719070795395,"input":"10\n3","output":"floor 10 / 3 = 3\nceil 10 / 3 = 4\nround 10 / 3 = 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\YouKnowWho\\TwoNumbers.cpp","group":"local","local":true}

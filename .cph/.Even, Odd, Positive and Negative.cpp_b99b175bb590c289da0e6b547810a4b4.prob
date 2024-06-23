@@ -1,0 +1,1 @@
+{"name":"Local: Even, Odd, Positive and Negative","url":"d:\\CP\\YouKnowWho\\Even, Odd, Positive and Negative.cpp","tests":[{"id":1718429148105,"input":"5\n-5 0 -3 -4 12","output":"Even: 3\nOdd: 2\nPositive: 1\nNegative: 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\YouKnowWho\\Even, Odd, Positive and Negative.cpp","group":"local","local":true}

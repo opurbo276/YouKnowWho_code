@@ -9,29 +9,22 @@ using namespace std;
 #define f(n) for (int i = 0; i < n; i++)
 #define endl '\n'
 
-int fib(int x)
-{
-    if ((x == 1) || (x == 0))
-    {
-        return (x);
-    }
-    else
-    {
-        return (fib(x - 1) + fib(x - 2));
-    }
-}
-
 int main()
 {
     op;
 
-    int n, i = 0;
+    int n;
     cin >> n;
-    while (i < n)
-    {
-        cout << fib(i) << " ";
-        i++;
+    int arr[n];
+    arr[0] = 0;
+    arr[1]=1;
+    for(int i=2;i<=n;i++){
+        arr[i]=arr[i-1]+arr[i-2];
     }
+    for(int i=0;i<n;i++){
+        cout<<arr[i]<<" ";
+    }
+    cout<<endl;
 
     return 0;
 }

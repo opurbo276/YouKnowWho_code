@@ -1,0 +1,1 @@
+{"name":"Local: Conversion","url":"d:\\CP\\YouKnowWho\\Conversion.cpp","tests":[{"id":1720189502523,"input":"happy,NewYear,enjoy","output":"HAPPY nEWyEAR ENJOY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\YouKnowWho\\Conversion.cpp","group":"local","local":true}
